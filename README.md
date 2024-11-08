@@ -4,7 +4,7 @@
 
 ![S & P Dashboard](https://github.com/user-attachments/assets/629b88a9-8749-4e87-ab4e-e64be5653001)
 ---
-[Click to view the dashboard](link-to-dashboard)
+[Click to view the dashboard]([https://public.tableau.com/app/profile/jocelyn.aibangbee/viz/SalesProfitDashboardproject/SPDashboard]
 
 ## Project Overview
 
